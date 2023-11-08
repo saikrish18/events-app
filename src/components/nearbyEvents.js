@@ -19,7 +19,7 @@ function NearbyEvents() {
     {
       name: 'Wednesday Night Life',
       location: 'Dilsukhnagar',
-      date: '07/11/2023',
+      date: '08/11/2023',
       coordinates: { lat: 17.3168, lng: 78.5513 },
       category: 'Category B',
       description: 'Night Life dj event, fun loaded',
@@ -106,8 +106,8 @@ function NearbyEvents() {
             value={filterDate}
           >
             <option value="all">All</option>
-            <option value="Date 1">Date 1</option>
-            <option value="Date 2">Date 2</option>
+            <option value="07/11/2023">07/11/2023</option>
+            <option value="08/11/2023">08/11/2023</option>
           </select>
         </div>
         <ul>
